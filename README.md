@@ -1,5 +1,4 @@
-# Computer-Science-1-Final
-Student Grade Management System
+# Java Student Grade Management System
 
 This is a Java-based console application.
 It makes use of the scanner, user input, Collections and ArrayList.
